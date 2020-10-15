@@ -1,0 +1,11 @@
+streamlit
+nsepy
+datetime
+PIL
+pandas
+numpy
+keras
+sklearn
+tensorflow
+matplotlib
+math
