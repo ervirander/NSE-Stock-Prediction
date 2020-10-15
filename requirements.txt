@@ -1,6 +1,5 @@
 streamlit
 nsepy
-PIL
 pandas
 numpy
 keras
