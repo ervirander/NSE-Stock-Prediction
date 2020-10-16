@@ -7,4 +7,4 @@ sklearn
 matplotlib
 pandas_datareader
 tensorflow-cpu
-python==3.8.4
+
