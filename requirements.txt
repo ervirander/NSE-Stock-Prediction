@@ -6,5 +6,5 @@ keras
 sklearn
 matplotlib
 pandas_datareader
-tensorflow-cpu
+tensorflow
 
