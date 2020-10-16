@@ -5,3 +5,4 @@ numpy
 keras
 sklearn
 matplotlib
+pandas_datareader
