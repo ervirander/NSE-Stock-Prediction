@@ -6,4 +6,4 @@ keras
 sklearn
 matplotlib
 pandas_datareader
-TensorFlow==2.2
+tensorflow-cpu
